@@ -35,6 +35,3 @@
 30. Todas as ações dos funcionários são registradas no sistema para auditoria.
 
 ---
-
-**Política de Tolerância para Faltas:**  
-Ao faltar a uma aula, o aluno perde automaticamente o direito de reposição/remarcação daquela aula, e a falta consome uma das aulas semanais permitidas pelo seu plano. Atrasos não são registrados, apenas presenças ou faltas. A reincidência de faltas pode acarretar restrições para novos agendamentos, de acordo com a política interna da clínica.
